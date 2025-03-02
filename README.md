@@ -98,7 +98,7 @@ git commit -m "Initial commit"
 ```
 ### **Step 2: Link to GitHub Repository**
 ```bash
-git remote add origin <YOUR_GITHUB_REPO_URL>
+git remote add origin <https://github.com/aman7756068021/Predicting-Airline-Flight-Profitability/tree/aman7756068021/User-Authentication-System-with-Node.js-and-Express>
 git branch -M main
 git push -u origin main
 ```
