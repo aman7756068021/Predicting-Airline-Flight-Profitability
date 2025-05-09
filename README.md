@@ -23,6 +23,11 @@ Dataset Link: [Click Here](https://docs.google.com/spreadsheets/d/1eALZhnY5bEJ4u
 - Handle real-world uncertainties like seasonal fluctuations, inefficiencies, and cost variations.
 - Ensure **interpretability** to provide actionable insights.
 
+![image](https://github.com/user-attachments/assets/1189c3a3-c36f-4dfc-a9a0-8b74a1f3b2d9) 
+
+![image](https://github.com/user-attachments/assets/e82647c9-fd5c-4e7a-ac54-04a0371da732)
+
+
 ## **Installation**
 ### **Prerequisites**
 Make sure you have Python installed. You can install the required libraries using:
